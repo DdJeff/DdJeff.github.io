@@ -32,6 +32,11 @@ p, .paragraph {
   font-family: "Roboto", sans-serif;
 }
 
+.picture-adjust {
+  height: 106px;
+  width: 106px;
+}
+
 p-lg, .paragraph-lg {
   font-size: 22px;
 }
